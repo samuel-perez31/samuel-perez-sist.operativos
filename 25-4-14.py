@@ -1,4 +1,4 @@
-"""
+
 
 #1
 
@@ -78,7 +78,7 @@ sex = angulor * 180 / 3.1416
 cen = angulor * 200 / 3.1416
 print("En sexagesimal es: ", sex)
 print("En cen es: ", cen)
-"""
+
 #10
 x1 = int(input("Ingrese el valor de x1: "))
 y1 = int(input("Ingrese el valor de y1: "))
